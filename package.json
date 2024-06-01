@@ -1,6 +1,6 @@
 {
-  "homepage": "http://ranford56.github.io/ranford_website",
-  "name": "ranford_website",
+  "homepage": "http://ranford56.github.io/ranford",
+  "name": "ranford",
   "private": true,
   "version": "0.0.0",
   "type": "module",
